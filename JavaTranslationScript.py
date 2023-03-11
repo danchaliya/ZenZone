@@ -13,7 +13,7 @@ import okhttp3.Response;
 
 public class Main {
     public static final MediaType JSON = MediaType.get("application/json; charset=utf-8");
-    public static final String OPENAI_API_KEY = "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";
+    public static final String OPENAI_API_KEY = "your keys";
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

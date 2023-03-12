@@ -8,7 +8,7 @@ How it works
 2. Read through the "About" Section 
 3. The "About" Section will feature what the app is and what the purpose of the app is. 
 4. Choose your category or vibe of meditation that you want. 
-5. The categories are Ocean, Rainfores, Star, Sky, and Garden. 
+5. The categories are Ocean, Rainforest, Star, Sky, and Garden. 
 6. Each category will feature a different scipt featuring elemts of the category. 
 7. For example, the ocean style of emdiattion will have the suers imagine that they are on the beach surrounded by waves crashing and the sand beneath the user's feet. 
 8. After choosing the category, you want to chose your level: Beginer, Intermediate, Advanced.

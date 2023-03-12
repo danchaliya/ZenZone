@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MeditationApp</string>
+    <string name="nature">Nature Listen to nature music while you meditate. </string>
+    <string name="ocean">Oceans Listen to the ocean while meditating. </string>
+    <string name="about">Lear to mediate from easy to advanced levels </string>
+    <string name="categ_explanat">Different categories and styles available </string>
+    <string name="about_details">Created by a group of students in 2023 as a project </string>
+</resources>

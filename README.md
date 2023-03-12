@@ -13,6 +13,6 @@ How it works
 7. For example, the ocean style of emdiattion will have the suers imagine that they are on the beach surrounded by waves crashing and the sand beneath the user's feet. 
 8. After choosing the category, you want to chose your level: Beginer, Intermediate, Advanced.
 9. The difference between Beginer, Intermediate and Advances is that Begener has a more guided approach with a more detailed script and Advanced has a less guided approach with a less detailed script. 
-10. After choosing your level, you will begain your meditationn according to your desired specifications. 
+10. After choosing your level, you will begain your meditation according to your desired specifications. 
 
 Enjoy your meditation expierence!

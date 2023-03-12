@@ -15,4 +15,4 @@ How it works
 9. The difference between Beginer, Intermediate and Advances is that Begener has a more guided approach with a more detailed script and Advanced has a less guided approach with a less detailed script. 
 10. After choosing your level, you will begain your meditation according to your desired specifications. 
 
-Enjoy your meditation expierence!
+Enjoy your meditation expierence and live life zen-fully!
